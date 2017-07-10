@@ -7,5 +7,5 @@
 ## this is a second secondary heading
 ### this is a second tertiary heading
 # To-Do List
-* work on the R file for Glycogen assaya nd QPCR
+* work on the R file for Glycogen assay and QPCR
 * work on RD Exam study guide
