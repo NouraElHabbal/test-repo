@@ -7,3 +7,5 @@
 ## this is a second secondary heading
 ### this is a second tertiary heading
 # this is a heading
+* work on the R file for Glycogen assaya nd QPCR
+* work on RD Exam study guide
